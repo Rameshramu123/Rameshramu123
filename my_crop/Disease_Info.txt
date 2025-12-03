@@ -1,0 +1,1633 @@
+=============================
+🍃 Apple__Apple_scab
+1. Overview: Short title for Apple__Apple_scab.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Apple_Black_rot
+1. Overview: Short title for Apple_Black_rot.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Apple_Cedar_apple_rust
+1. Overview: Short title for Apple_Cedar_apple_rust.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Apple__healthy
+1. Overview: Short title for Apple__healthy.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Blueberry___healthy
+1. Overview: Short title for Blueberry___healthy.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Cherry_(including_sour)Powdery_mildew
+1. Overview: Short title for Cherry_(including_sour)Powdery_mildew.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Cherry(including_sour)_healthy
+1. Overview: Short title for Cherry(including_sour)_healthy.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Corn_(maize)Cercospora_leaf_spot_Gray_leaf_spot
+1. Overview: Short title for Corn_(maize)Cercospora_leaf_spot_Gray_leaf_spot.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Corn(maize)Common_rust
+1. Overview: Short title for Corn(maize)Common_rust.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Corn_(maize)Northern_Leaf_Blight
+1. Overview: Short title for Corn_(maize)Northern_Leaf_Blight.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Corn(maize)_healthy
+1. Overview: Short title for Corn(maize)_healthy.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Grape__Black_rot
+1. Overview: Short title for Grape__Black_rot.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Grape_Esca(Black_Measles)
+1. Overview: Short title for Grape_Esca(Black_Measles).
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Grape__Leaf_blight(Isariopsis_Leaf_Spot)
+1. Overview: Short title for Grape__Leaf_blight(Isariopsis_Leaf_Spot).
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Grape___healthy
+1. Overview: Short title for Grape___healthy.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Orange__Haunglongbing(Citrus_greening)
+1. Overview: Short title for Orange__Haunglongbing(Citrus_greening).
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Peach__Bacterial_spot
+1. Overview: Short title for Peach__Bacterial_spot.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Peach__healthy
+1. Overview: Short title for Peach__healthy.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Pepper,bell_Bacterial_spot
+1. Overview: Short title for Pepper,bell_Bacterial_spot.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Pepper,_bell__healthy
+1. Overview: Short title for Pepper,_bell__healthy.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Potato__Early_blight
+1. Overview: Short title for Potato__Early_blight.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Potato_Late_blight
+1. Overview: Short title for Potato_Late_blight.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Potato__healthy
+1. Overview: Short title for Potato__healthy.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Raspberry___healthy
+1. Overview: Short title for Raspberry___healthy.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Soybean___healthy
+1. Overview: Short title for Soybean___healthy.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Squash___Powdery_mildew
+1. Overview: Short title for Squash___Powdery_mildew.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Strawberry__Leaf_scorch
+1. Overview: Short title for Strawberry__Leaf_scorch.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Strawberry__healthy
+1. Overview: Short title for Strawberry__healthy.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Tomato__Bacterial_spot
+1. Overview: Short title for Tomato__Bacterial_spot.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Tomato_Early_blight
+1. Overview: Short title for Tomato_Early_blight.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Tomato__Late_blight
+1. Overview: Short title for Tomato__Late_blight.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Tomato__Leaf_Mold
+1. Overview: Short title for Tomato__Leaf_Mold.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Tomato__Septoria_leaf_spot
+1. Overview: Short title for Tomato__Septoria_leaf_spot.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Tomato__Spider_mites_Two-spotted_spider_mite
+1. Overview: Short title for Tomato__Spider_mites_Two-spotted_spider_mite.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Tomato__Target_Spot
+1. Overview: Short title for Tomato__Target_Spot.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Tomato__Tomato_Yellow_Leaf_Curl_Virus
+1. Overview: Short title for Tomato__Tomato_Yellow_Leaf_Curl_Virus.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Tomato_Tomato_mosaic_virus
+1. Overview: Short title for Tomato_Tomato_mosaic_virus.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
+
+=============================
+🍃 Tomato__healthy
+1. Overview: Short title for Tomato__healthy.
+2. Scientific / causal agent: gives the pathogen or pest name and type (fungus/bacteria/virus/mite).
+3. Primary hosts: lists main crop hosts and any alternate hosts if known.
+4. Geography & climate: common regions and weather favoring the disease.
+5. Time of appearance: growth stage or season when symptoms usually show.
+6. Cause details: lifecycle basics, how the pathogen survives and spreads.
+7. Infection process: how spores/agents enter plant tissues.
+8. Early symptoms: what a farmer should first notice in field.
+9. Developed symptoms: what appears after the disease progresses.
+10. Leaf symptoms: typical leaf markings, spots, discolorations.
+11. Fruit symptoms: how fruits are affected (spots, mummification, rot).
+12. Stem/bark symptoms: any cankers, lesions, or stem cracking.
+13. Root symptoms: (if relevant) root rot, discoloration or poor uptake.
+14. Secondary problems: increased susceptibility to other pests or rots.
+15. Yield impact: expected effects on yield and quality if untreated.
+16. Economic threshold: when to act for profitable control (general guidance).
+17. Diagnostic tips: simple field tests or telling signs vs similar diseases.
+18. Lab confirmation: samples to send and what tests to request.
+19. Cultural controls: sanitation, pruning, residue removal, crop rotation.
+20. Canopy management: spacing, pruning, and irrigation methods to reduce disease.
+21. Seed/planting material: importance of certified disease-free transplants or seeds.
+22. Soil & fertility: how nutrition influences resistance and symptoms.
+23. Water management: irrigation timing and methods to lower risk.
+24. Organic options: neem oil, wettable sulfur, biologicals (application hints).
+25. Biological control: useful biocontrol agents or beneficial insects/microbes.
+26. Chemical fungicides/insecticides: recommended groups and timing.
+27. Specific product examples: common trade names and typical doses (local regs vary).
+28. Spray timing & intervals: protectant vs curative use, pre-symptom spraying tips.
+29. Mixing & tank compatibility: what not to mix; adjuvant tips.
+30. Resistance management: rotate modes of action, avoid single-site overuse.
+31. Post-application safety: re-entry intervals and PPE recommendations.
+32. Harvest/postharvest: how disease affects storage and packing rules.
+33. Record-keeping: why tracking outbreaks & sprays helps long-term control.
+34. Nearby host management: remove or treat alternate hosts nearby.
+35. Community action: area-wide coordination reduces inoculum in orchards/fields.
+36. Quick-response checklist: 6 things to do when you spot it in field.
+37. Long-term strategies: resistant cultivars, improved varieties, integrated plans.
+38. Farmer tip: low-cost field-level trick or observation to spot early signs.
+39. Extension advice: contact local agri-extension, upload pictures for ID.
+40. Note: product names and doses are indicative — follow local labels & regs.
